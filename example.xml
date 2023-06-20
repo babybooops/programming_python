@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soft>
+    <os>
+        <item name="linux" dist="ubuntu">
+            This text about linux
+        </item>
+        <item name="mac os">
+            Apple company
+        </item>
+        <item name="windows" dist="XP" />
+    </os>
+</soft>
